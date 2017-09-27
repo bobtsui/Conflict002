@@ -11,7 +11,7 @@ namespace Console1
         static void Main(string[] args)
         {
             //Hello你好嗎?
-            //有點不好  (分支)
+            //有點不好~ 
         }
     }
 }
